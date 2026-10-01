@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `Indonesian Political News Clean` |
+| Sumber | `https://huggingface.co/datasets/ardimardiana/indonesian-political-news-clean` |
+| Lisensi/ketentuan pakai | `cc-by-sa-4.0` |
+| Ukuran | `> 500 MB (menggunakan 5 file split teratas)` |
+| Periode data | `Teks berita online` |
+| Unit analisis | `Artikel berita politik` |
 
 ## Tempat Mencari Dataset
 
