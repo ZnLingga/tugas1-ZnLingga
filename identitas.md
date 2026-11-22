@@ -1,2 +1,2 @@
-Zaskia n Lingga 
+Zaskia Lingga 
 202310370311158 
